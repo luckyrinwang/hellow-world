@@ -1,2 +1,5 @@
 # hellow-world
-just a test
+
+Hi Github!
+
+Thanks for your giving a new way to code!
